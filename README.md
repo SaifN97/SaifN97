@@ -65,6 +65,6 @@
     </a>
 </div
 
-[website]: https://cocky-meitner-b2f1b1.netlify.app/
+[website]: https://saif-narpali.vercel.app/
 [instagram]: https://www.instagram.com/saif.codes_
-[linkedin]: https://www.linkedin.com/in/saif-narpali-47945b200/
+[linkedin]: https://www.linkedin.com/in/heysaifnarpali/
